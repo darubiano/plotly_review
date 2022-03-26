@@ -1,4 +1,4 @@
-# https://dash.plotly.com/dash-html-components/center
+# https://dash.plotly.com/dash-html-components/center 
 import figures as fg
 import load_data as ld
 from dash import Dash,Input,Output,html,dcc
